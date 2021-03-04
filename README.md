@@ -1,5 +1,4 @@
 # Study_Algorithm_Team_3
-Study_Algorithm_Team_3
 
 ### 스터디원
 
@@ -17,7 +16,7 @@ Study_Algorithm_Team_3
 
 ## 폴더 구조
 
-주제/문제명/본인이름.py
+`주제/문제명/본인이름.py`
 
 ex) Sort/KthNumber/yapp.py
 
@@ -25,7 +24,7 @@ ex) Sort/KthNumber/yapp.py
 
 ### PR 제목
 
-제목 : [알고리즘 level] 문제명 label: 문제유형
+제목 : `[알고리즘 level] 문제명 label: 문제유형`
 
 ### PR 본문
 
@@ -39,14 +38,19 @@ ex) Sort/KthNumber/yapp.py
 이모티콘을 사용해도 좋고, 개선점 혹은 좋았던 풀이 등을 가감없이 표현하도록 한다.
 
 
-|주차|문제 1|문제 2|문제 3|
-|:---:|:---:|:---:|
-|1주차| [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |
-|2주차||||
-|3주차||||
-|4주차||||
-|5주차||||
-|6주차||||
+## 주차별 진행 상황
+
+문제 선정 순서: 조현우 -> 허정민 -> 박소연 -> 전우정 -> 김수현 -> 임재은
+
+| 주차  | 유형 | 문제 1 | 문제 2 | 문제 3 |
+| :---: | :--: | :---: | :----: | :----: |
+| 1주차 | 정렬 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |
+| 2주차 |      |        |        |       |
+| 3주차 |      |        |        |       |
+| 4주차 |      |        |        |       |
+| 5주차 |      |        |        |       |
+| 6주차 |      |        |        |       |
+
 
 
 
