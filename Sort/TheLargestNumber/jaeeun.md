@@ -1,6 +1,5 @@
 ```python
 // 조합 함수로 풀었지만 시간초과
-
 from itertools import permutations
 
 def solution(numbers):
@@ -11,7 +10,6 @@ def solution(numbers):
     return str(max(result))
   
 // 가장 유명한 풀이
-
 def solution(numbers):
     answer = ''
     numbers = list(map(str, numbers))
