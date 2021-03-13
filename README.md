@@ -46,7 +46,7 @@ ex) Sort/KthNumber/yapp.py
 | :---: | :--: | :---: | :----: | :----: |
 | 1주차 | 정렬 | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) |
 | 2주차 |   그리디   |  [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)      |  [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885?language=python3)      |  [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860?language=python3)     |
-| 3주차 |   그리디   |  [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)   |   [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)  |  [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)   |
+| 3주차 |   해시   |  [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)   |   [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)  |  [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)   |
 | 4주차 |      |        |        |       |
 | 5주차 |      |        |        |       |
 | 6주차 |      |        |        |       |
