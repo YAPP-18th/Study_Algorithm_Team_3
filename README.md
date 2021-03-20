@@ -5,6 +5,7 @@
 김수현(soohyun), 박소연(soyeon), 임재은(jaeun), 전우정(woojung), 조현우(hyunwoo), 허정민(jungmin) 
 
 ### 프로젝트 진행 방법
+📃[회의록](https://docs.google.com/document/d/1t9rlRxRS-0eBUO4R9krUoGP0py9L_dBEpL7fk9917Sc/edit)
 
 1. 매주 [프로그래머스](https://programmers.co.kr/learn/challenges)에서
 (level 1, 2, 3 각각 한 문제) 혹은 (level 1 한 문제, level 2 두 문제)를 정해 스터디원과 공유한다.
