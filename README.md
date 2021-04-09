@@ -49,10 +49,14 @@ ex) Sort/KthNumber/yapp.py
 | 2주차 |   그리디   |  [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)      |  [구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885?language=python3)      |  [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860?language=python3)     |
 | 3주차 |   해시   |  [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)   |   [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)  |  [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)   |
 | 4주차 |   브루트포스   |    [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839?language=python3)    |   [스타트와 링크](https://www.acmicpc.net/problem/14889)     |   [부분수열의 합](https://www.acmicpc.net/problem/1182)   |
-| 5주차 |      |        |        |       |
+| 5주차 |  DFS/BFS    |  [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)      |    [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)    |  [단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)     |
 | 6주차 |      |        |        |       |
 
 
-
+### 벌금의 전당
+| 이름 | 금액 |
+| :---: | :--: |
+| 박소연 | 3000 |
+| 허정민 | 3000 |
 
 
