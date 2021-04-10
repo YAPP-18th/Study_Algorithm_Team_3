@@ -23,6 +23,8 @@ def solution(begin, target, words):
                     visited[word] = 1
                     stacks.append(word)
                     break
-        answer += 1 #depth 1 추가
+        answer += 1 #depth 1추가
+
+
     return answer
         
