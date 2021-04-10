@@ -12,5 +12,4 @@ def solution(numbers, target):
 
     return sum[len(numbers)-1].count(target)
 
-
 print(solution([1, 1, 1, 1, 1], 3))
