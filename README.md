@@ -41,7 +41,7 @@ ex) Sort/KthNumber/yapp.py
 
 ## 주차별 진행 상황
 
-문제 선정 순서: 조현우 -> 허정민 -> 박소연 -> 전우정 -> 김수현 -> 임재은
+문제 선정 순서: **조현우 -> 허정민 -> 박소연 -> 전우정 -> 김수현** -> 임재은
 
 | 주차  | 유형 | 문제 1 | 문제 2 | 문제 3 |
 | :---: | :--: | :---: | :----: | :----: |
@@ -50,6 +50,7 @@ ex) Sort/KthNumber/yapp.py
 | 3주차 |   해시   |  [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)   |   [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)  |  [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)   |
 | 4주차 |   브루트포스   |    [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839?language=python3)    |   [스타트와 링크](https://www.acmicpc.net/problem/14889)     |   [부분수열의 합](https://www.acmicpc.net/problem/1182)   |
 | 5주차 |  DFS/BFS    |  [타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)      |    [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)    |  [단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)     |
+| 시험기간 |
 | 6주차 |    DP  |   [퇴사2](https://www.acmicpc.net/problem/15486)     |  [점프](https://www.acmicpc.net/problem/1890)      |    [평범한배낭](https://www.acmicpc.net/problem/12865)   |
 
 
